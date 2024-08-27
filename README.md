@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive and d
 - [Twitter](https://x.com/mayankchourey18)
 
 ## 📂 Pinned Repositories
-https://github.com/mayank2713/Random-Gif-generator
+https://github.com/mayank2713/Real-Time-Location-tracker
 
 https://github.com/mayank2713/Top-Courses-Project-React
 
