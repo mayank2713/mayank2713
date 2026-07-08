@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive and d
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, Python
+- **Backend:** Node.js, Express.js, Python, Django
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, VS Code
 
